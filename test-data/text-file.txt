@@ -1,0 +1,3 @@
+use this text file as input to addDataset
+
+to test that it reject non zip files
